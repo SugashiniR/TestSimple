@@ -1,0 +1,6 @@
+Goto src\main\java\SimpleTest1 Package 
+open Validate_About_This_Item Java class and Run as Java Application
+It prints required output in console
+----------------------
+Due to TestNG configuration issue for time being i used Java runtime to execute, 
+this means I can fix TestNG issue but it will take time, So dont want to waste my time on this as i can run through JRE
